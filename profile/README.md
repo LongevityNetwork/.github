@@ -1,12 +1,23 @@
-## Hi there 👋
+# Longevity Network
 
-<!--
+We're a community of people optimizing their healthspan at Network School in Forest City, Malaysia.
 
-**Here are some ideas to get you started:**
+**Our mission:** make longevity easy and affordable for everyone.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We combine science, technology, and community to help you live better, longer.
+
+## What We Offer
+
+**Membership** — Continuous glucose monitoring, unlimited Longevity Pod access, community meetups and events. Everything you need for $100/month.
+
+**Longevity Pod** — Your personal longevity lab. Red light therapy, neurovisor sessions, HRV measurement, blood pressure and ketone monitoring.
+
+**Blood Panels** — Lab-grade panels tailored for longevity, available to everyone. Metabolic, Longevity, and Biohacker tiers starting at $65.
+
+**Longtermer Protocol** — Your yearly longevity stack. Quarterly blood panels, a custom supplement protocol, consultations, and a home optimization kit for $499/year.
+
+**Longevity 101** — A 6-module course covering everything from understanding your blood results to building your personal longevity stack.
+
+## Learn More
+
+🌐 [longevitynet.work](https://longevitynet.work)
